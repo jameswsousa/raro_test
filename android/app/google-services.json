@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32863570765",
+    "project_id": "raro-test-james",
+    "storage_bucket": "raro-test-james.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32863570765:android:a07b8cc26de9c3d51c8504",
+        "android_client_info": {
+          "package_name": "com.example.raro_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32863570765-emlasq957uk86tb11s2rfpfhcqngr1b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe67--RLtk-uWtqLBRojcPOReHADjt8ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32863570765-emlasq957uk86tb11s2rfpfhcqngr1b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
